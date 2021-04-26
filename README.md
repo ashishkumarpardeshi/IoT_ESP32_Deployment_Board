@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="PCB Images/PWS9.jpg">
+  <img src="PCB Images/PWS8.jpg">
 </p>
 
 <p align="center">
